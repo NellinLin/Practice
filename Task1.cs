@@ -26,7 +26,6 @@ namespace Test_ConsoleApp1
             int size = m_str.Count();
             Conkat con = new Conkat();
        
-
             for (int i=0; i<size; i++)
             {
                 for(int k=0; k<size; k++)
