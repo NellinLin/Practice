@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -23,12 +23,13 @@ namespace Test_ConsoleApp1
         static void Main(string[] args)
         {
             List<string> m_str = new List<string>() { "aaa", "bbb", "ccc" };
+            int size = m_str.Count();
             Conkat con = new Conkat();
        
 
-            for (int i=0; i<3; i++)
+            for (int i=0; i<size; i++)
             {
-                for(int k=0; k<3; k++)
+                for(int k=0; k<size; k++)
                 {
                     if (i != k)
                     {
