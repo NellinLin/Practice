@@ -1,0 +1,11 @@
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\bin\Debug\netcoreapp2.0\Task5_ConsoleApp1.deps.json
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\bin\Debug\netcoreapp2.0\Task5_ConsoleApp1.runtimeconfig.json
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\bin\Debug\netcoreapp2.0\Task5_ConsoleApp1.runtimeconfig.dev.json
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\bin\Debug\netcoreapp2.0\Task5_ConsoleApp1.dll
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\bin\Debug\netcoreapp2.0\Task5_ConsoleApp1.pdb
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\obj\Debug\netcoreapp2.0\Task5_ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\obj\Debug\netcoreapp2.0\Task5_ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\obj\Debug\netcoreapp2.0\Task5_ConsoleApp1.AssemblyInfoInputs.cache
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\obj\Debug\netcoreapp2.0\Task5_ConsoleApp1.AssemblyInfo.cs
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\obj\Debug\netcoreapp2.0\Task5_ConsoleApp1.dll
+D:\Practic\DZ\Task5_ConsoleApp1\Task5_ConsoleApp1\obj\Debug\netcoreapp2.0\Task5_ConsoleApp1.pdb
